@@ -7,7 +7,7 @@
 
 ## &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; About Me
 
--  I’m currently working on ***Note-Taker using MERN***
+-  I’m currently working on ***Chat application Using React***
 <a href="https://github.com/ShubhamDot/github-readme-streak-stats"> <img align ="right" alt="ShubhamDot's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamDot&theme=vue-dark&hide_border=true&stroke=0000"/> </a>
 
 -  I’m currently learning ***Java***
