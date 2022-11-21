@@ -72,19 +72,19 @@
  </center>
 <br/>
 <br/>
-<a href="https://github.com/Thynameisash/github-readme-activity-graph"><img alt="Thynameisash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Thynameisash&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/ShubhamDot/github-readme-activity-graph"><img alt="ShubhamDot's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Thynameisash&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 <br/>
 <br/>
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/aashray-sharma-08a312245/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height="35" width="35" /></a>
-<a href = "https://www.youtube.com/c/thefieryguitar"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" height="35" width="35" /></a>
-<a href="https://www.leetcode.com/ash990"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="ash990" height="35" width="35" /></a>
+<a href = "https://www.linkedin.com/in/shubham-batra-b130541a6/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height="35" width="35" /></a>
+<!-- <a href = "https://www.youtube.com/c/thefieryguitar"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" height="35" width="35" /></a> -->
+<a href="https://leetcode.com/LordShubham/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="ash990" height="35" width="35" /></a>
 </p>
  
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Thynameisash">
+    <img src="https://komarev.com/ghpvc/?username=ShubhamDot">
 </a>
-<a href="https://github.com/Thynameisash?tab=followers"><img src="https://img.shields.io/github/followers/Thynameisash?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/ShubhamDot?tab=followers"><img src="https://img.shields.io/github/followers/ShubhamDot?label=Followers&style=social" alt="GitHub Badge"></a>
