@@ -76,13 +76,9 @@
   <a href="https://github.com/Thynameisash/github-readme-stats"><img align="center" alt="Thynameisash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamDot&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </center>
  <br/>
-  <p><b>Note: </b>The top languages are only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.</p>
+  <!-- <p><b>Note: </b>The top languages are only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.</p> -->
  
-<br/>
-<br/>
-<!-- <a href="https://github.com/ShubhamDot/github-readme-activity-graph"><img alt="ShubhamDot's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Thynameisash&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-<br/>
-<br/>
+
 
 ## Connect with me:
 <p align="left">
