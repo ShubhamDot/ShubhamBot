@@ -66,9 +66,9 @@
 
 📊 My Leetcode Stats
   <br/>
-<center>
- ![Leetcode Stats](https://leetcard.jacoblin.cool/LordShubham?theme=nord)
-</center>  
+
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/LordShubham?theme=nord,dark?ext=activity?cache=0)
+  
 
 
 ##  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📊 My Github Stats
